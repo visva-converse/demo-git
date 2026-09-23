@@ -21,13 +21,7 @@ function App() {
             Edit <code>src/App.tsx</code>
           </p>
         </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
+
       </section>
 
       <div className="ticks"></div>
